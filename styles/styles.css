@@ -1,0 +1,126 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.navigation{
+    background-color: #282B24;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.logo-navigation{
+    font-size: 70px;
+    font-family: "Magic Retro-Regular";
+    color:#6C7A57;
+
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 865px;
+}
+.aboutme-navigation{
+    font-size: 36px;
+    color:#ffffff;
+
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.resume-navigation{
+    font-size: 36px;
+    color:#ffffff;
+
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 110px;
+    padding-right: 10px;
+}
+.artist-picture{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 26px;
+}
+.name{
+    font-size: 150px;
+    font-family:"mariana-Regular";
+}
+.ui-ux{
+    font-size: 40px;
+}
+.graphic-design{
+    font-size: 40px;
+}
+.projects{
+    display: flex;
+}
+.projects > * {
+    width:50%;
+    padding:1rem;
+}
+.ambicare-project{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 115px;
+    padding-right: 10px;
+}
+.isshin-project{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 78px;
+    padding-right: 10px;
+
+}
+.hypnos-project{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 115px;
+    padding-right: 10px;
+}
+.clientwork-project{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 115px;
+    padding-right: 10px;
+}
+.univers-project{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 78px;
+    padding-right: 10px;
+}
+.ambicare-title{
+    font-size:36px;
+}
+.ambicare-text{
+    font-size:24px;
+}
+.hypnos-title{
+    font-size:36px;
+}
+.hypnos-text{
+    font-size:24px;
+}
+.clientwork-title{
+    font-size: 36px;
+}
+.clientwork-text{
+    font-size: 24px;
+}
+.isshin-title{
+    font-size:36px;
+}
+.isshin-text{
+    font-size: 24px;
+}
+.univers-title{
+    font-size: 36px;
+}
+.univers-text{
+    font-size:24px;
+}
